@@ -11,7 +11,7 @@ sections:
     actions:
       - label: S'inscrire au cours particulier
         url: '#'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
