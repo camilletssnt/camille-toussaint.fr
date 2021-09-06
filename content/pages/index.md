@@ -9,7 +9,7 @@ sections:
       Des conseils et des ressources pour réussir ses années de lycée. [Let's
       talk](/contact/).
     actions:
-      - label: lorem-ipsum
+      - label: 'S''inscrire au cours particulier '
         url: '#'
         style: link
         icon: dribbble
