@@ -8,6 +8,13 @@ sections:
     content: >
       Des conseils et des ressources pour réussir ses années de lycée. [Let's
       talk](/contact/).
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
