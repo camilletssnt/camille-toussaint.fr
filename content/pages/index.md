@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: Progressez en français
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+    content: >
+      Des conseils et des ressources pour réussir ses années de lycée. [Let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
