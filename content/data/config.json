@@ -24,13 +24,13 @@
                 "no_follow": false
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "Mon expérience",
+                "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Mon expérience",
-                "url": "/about/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
