@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: Mon expérience
 hide_title: false
 sections:
   - type: content_section
