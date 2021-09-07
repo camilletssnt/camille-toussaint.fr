@@ -9,8 +9,8 @@ sections:
 
 
       Si vous souhaitez plus d’informations, n’hésitez pas à me contacter en
-      utilisant le formulaire ou en m’envoyant un e-mail à
-      cours@camille-toussaint.fr .
+      utilisant [le formulaire de contact ](/contact)ou en m’envoyant un e-mail
+      à cours@camille-toussaint.fr .
 
 
       ## Mon parcours :
