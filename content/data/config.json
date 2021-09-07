@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "red",
-    "base_font": "playfair display",
+    "base_font": "fraunces",
     "header": {
         "title": "Camille Toussaint",
         "logo": "images/logo.svg",
