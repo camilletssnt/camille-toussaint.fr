@@ -37,19 +37,19 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            },
-            {
                 "label": "Facebook",
                 "url": "#",
                 "style": "icon",
                 "icon": "facebook",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
             },
             {
                 "label": "Youtube",
