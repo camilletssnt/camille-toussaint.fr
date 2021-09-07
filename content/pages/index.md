@@ -34,7 +34,7 @@ sections:
     type: cta_section
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: 'Qui je suis '
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
