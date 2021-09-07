@@ -27,9 +27,11 @@ sections:
   - type: cta_section
     section_id: cta
     title: 'Qui je suis '
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Professeure agrégée de français, j’accompagne les lycéens en leur donnant
+      les ressources nécessaires pour réussir le bac de français.
+
+      Je donne également des cours particuliers à distance.
     actions:
       - label: Contactez-moi
         url: /contact
