@@ -37,6 +37,14 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Youtube",
+                "url": "#",
+                "style": "icon",
+                "icon": "youtube",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Facebook",
                 "url": "#",
                 "style": "icon",
@@ -50,14 +58,6 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Youtube",
-                "url": "#",
-                "style": "icon",
-                "icon": "youtube",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
