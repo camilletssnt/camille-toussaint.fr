@@ -1,5 +1,5 @@
 ---
-title: Mon expérience
+title: Cours particuliers
 hide_title: false
 sections:
   - type: content_section
