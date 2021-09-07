@@ -31,7 +31,7 @@ sections:
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
     actions:
-      - label: Let's start
+      - label: Contactez-moi
         url: /contact
         style: button
     image: /images/photo_profil1.jpg
