@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Journal",
                 "url": "/blog/",
                 "style": "link"
