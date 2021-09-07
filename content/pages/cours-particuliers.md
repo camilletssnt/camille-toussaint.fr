@@ -4,27 +4,24 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Professeure agrégée de Lettres modernes, je propose des cours particuliers
-      aux lycéens.
+      J’aide les lycéens à réussir leur année de Seconde, de Première ou de
+      Terminale en français (et en HLP). Dans mes cours particuliers, ils
+      acquièrent une bonne maîtrise de la méthodologie des épreuves écrites et
+      orales du bac, tout en cultivant leur goût pour la littérature.
 
 
-      Si vous souhaitez plus d’informations, n’hésitez pas à me contacter en
-      utilisant [le formulaire de contact ](/contact)ou en m’envoyant un e-mail
-      à cours@camille-toussaint.fr .
+      Je suis professeure agrégée de lettres modernes et je transmets par
+      ailleurs des méthodes de travail pour que les jeunes étudiants apprennent
+      à être efficaces et autonomes.
 
 
-      ## Mon parcours :
+      Les cours particuliers se déroulent sur Zoom pour un tarif de 60 € de
+      l’heure (chèques emploi service (CESU) acceptés).
 
 
-      Après deux années de classes préparatoires B/L à Janson de Sailly, j’ai
-      obtenu une licence en Lettres modernes à Paris-Sorbonne (Paris IV). Puis
-      j’ai entrepris un master de recherches en Théorie de la Littérature,
-      master cohabilité par l’ENS Ulm, Paris-Sorbonne (Paris IV) et l’EHESS. Par
-      la suite j’ai réussi l’agrégation de Lettres modernes.
+      N’hésitez pas à me contacter par e-mail (cours@camille-toussaint.fr). 
 
-
-      Depuis j’enseigne en collège et en lycée. Je donne par ailleurs des cours
-      particuliers.
+      Nous conviendrons d’un échange téléphonique pour parler de votre enfant.
     image_alt: Our team in the meeting room
 seo:
   title: About Us
