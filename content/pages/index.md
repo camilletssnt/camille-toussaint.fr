@@ -17,17 +17,10 @@ sections:
         no_follow: false
   - section_id: lorem-ipsum
     title: Préparez-vous au bac en toute sérénité
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Les deux années menant au bac de français peuvent être stressantes. Je
+      vous propose des conseils et des ressources pour vous aider à vous
+      approprier le programme et maîtriser les épreuves écrites et orales.
     actions: []
     image_alt: lorem-ipsum
     bg_color: none
