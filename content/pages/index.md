@@ -23,19 +23,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
@@ -53,5 +40,18 @@ sections:
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
+  - type: cta_section
+    section_id: cta
+    title: Let’s Work Together!
+    content: >-
+      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+      about your project by getting started below.
+    actions:
+      - label: Let's start
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 layout: advanced
 ---
