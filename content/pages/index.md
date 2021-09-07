@@ -9,7 +9,7 @@ sections:
       Des conseils et des ressources pour réussir ses années de lycée.
     actions:
       - label: S'inscrire au cours particulier
-        url: '#'
+        url: /cours-particuliers
         style: button
         icon: dribbble
         new_window: false
