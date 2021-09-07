@@ -15,14 +15,6 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
