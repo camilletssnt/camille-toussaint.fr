@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: Progressez en français
-    content: >
-      Des conseils et des ressources pour réussir ses années de lycée. [Let's
-      talk](/contact/).
+    content: |
+      Des conseils et des ressources pour réussir ses années de lycée.
     actions:
       - label: S'inscrire au cours particulier
         url: '#'
