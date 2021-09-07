@@ -26,7 +26,7 @@ sections:
     type: cta_section
   - type: cta_section
     section_id: cta
-    title: 'Qui je suis '
+    title: Mon expérience
     content: >
       Professeure agrégée de français, j’accompagne les lycéens en leur donnant
       les ressources nécessaires pour réussir le bac de français.
