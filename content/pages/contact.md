@@ -33,7 +33,6 @@ sections:
     submit_label: Envoyer
   - section_id: lorem-ipsum
     title: Contact
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
