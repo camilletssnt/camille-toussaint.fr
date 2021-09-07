@@ -42,7 +42,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: images/cta.svg
+    image: /images/photo_profil1.jpg
     image_alt: Illustration
     bg_color: light
 layout: advanced
