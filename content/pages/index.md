@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: false
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Préparez-vous au bac en toute sérénité
     content: >-
       ## Lorem ipsum
 
