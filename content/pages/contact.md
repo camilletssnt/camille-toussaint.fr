@@ -34,17 +34,12 @@ sections:
   - section_id: lorem-ipsum
     title: Contact
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Merci pour votre intérêt.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Si vous voulez plus d’informations sur les ressources proposées ou sur les
+      cours particuliers, n’hésitez pas à me contacter par e-mail
+      contact@camille-toussaint.fr
     type: content_section
 seo:
   title: Contact
