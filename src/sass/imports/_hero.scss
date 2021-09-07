@@ -23,12 +23,12 @@
 
   &__actions {
     font-size: 1.11111em;
- 
+    justify-content: center; 
 
     .button {
       font-size: inherit;
       display: flex;  
-      justify-content: center;  
+       
       align-items: center;  
      
     }
