@@ -25,7 +25,6 @@ sections:
 
       Depuis j’enseigne en collège et en lycée. Je donne par ailleurs des cours
       particuliers.
-    image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
