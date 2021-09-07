@@ -4,16 +4,15 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >+
+    content: >
       Merci pour votre intérêt.
 
       Si vous voulez plus d’informations sur les ressources proposées ou sur les
-      cours particuliers, n’hésitez pas à me contacter par le formulaire ou à
-      l'adresse e-mail contact@camille-toussaint.fr
+      cours particuliers, n’hésitez pas à me contacter par e-mail
+      contact@camille-toussaint.fr
 
 
       ***
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
