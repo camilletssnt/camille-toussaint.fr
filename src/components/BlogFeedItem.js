@@ -13,7 +13,7 @@ export default class BlogFeedItem extends React.Component {
         const excerpt = _.get(post, 'excerpt');
         const date = _.get(post, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
-        const formattedDate = moment(date).strftime('%d %M, %Y');
+        const formattedDate = moment(date).strftime('%d %B, %Y');
         const postUrl = getPageUrl(post, { withPrefix: true });
 
         return (
