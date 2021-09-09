@@ -2,8 +2,7 @@
 title: Faire ses devoirs en 4 étapes
 excerpt: >-
   Pour progresser et réussir son lycée, il faut mettre en place dès le début de
-  l’année une routine de travail quotidienne. Je te propose d’organiser ta
-  séance de travail en 4 étapes.
+  l'année
 date: '2021-02-12'
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
