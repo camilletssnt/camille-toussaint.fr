@@ -6,7 +6,6 @@ excerpt: >-
   travail en 4 étapes.
 date: '2021-09-05'
 thumb_image_alt: White desk lamp beside green plant
-image: images/post-6.jpg
 image_alt: White desk lamp beside green plant
 seo:
   title: The Elements of Great Workplace Design
