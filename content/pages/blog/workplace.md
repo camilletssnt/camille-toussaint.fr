@@ -71,6 +71,4 @@ Pour finir ta séance de travail le soir, je te conseille de te préparer pour l
 
 Je n'en ai pas encore parlé mais il est clair que tu ne peux pas faire tes devoirs ni réviser de manière efficace si tu es souvent interrompu et distrait. Choisis un lieu au calme qui te mettra dans une ambiance studieuse, avec le moins de tentations autour de toi (donc loin de tes jeux vidéos, de ton ordinateur et de ton téléphone). Si tu n'as pas trop le choix de ton espace de travail, fais en sorte qu'il soit bien rangé tout de même et trouve un moyen pour ne pas être perturbé (munis-toi d’un casque ou d’écouteurs et écoute de la musique sans parole par exemple).
 
-\__\__\__\__\__\__\__\__\__\_
-
 Pour terminer je voudrais insister sur un point : fais des pauses. Si tu sens la frustration montée, soit fais une tâche plus facile, soit fais cinq minutes de pause en allant te changer les idées (en te levant de ta chaise et en faisant quelques pas pour boire par exemple). C'est très important de t’aérer l'esprit et de te donner le temps de faire les choses. C'est seulement ainsi que tu seras efficace. Ton cerveau n'est pas une machine, il a besoin de temps et d’espace pour assimiler tous ces nouveaux savoirs.
