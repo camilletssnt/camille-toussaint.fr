@@ -1,85 +1,47 @@
 
 ---
-
-title: Faire ses devoirs en 4 étapes 
-
-excerpt: >-
-Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
-Je te propose d’organiser ta séance de travail en 4 étapes.
-
-date: '2021-09-05'
-
-thumb_image: 
-
-thumb_image_alt: 
-
-image: 
-
-image_alt: 
-
-seo:
-
 title: Faire ses devoirs en 4 étapes
-
-description: >-
-
-Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
-Je te propose d’organiser ta séance de travail en 4 étapes.
-
-extra:
-
-- name: 'og:type'
-
-value: article
-
-keyName: property
-
-- name: 'og:title'
-
-value: Faire ses devoirs en 4 étapes
-
-keyName: property
-
-- name: 'og:description'
-
-value: >-
-
-Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
-Je te propose d’organiser ta séance de travail en 4 étapes.
-
-keyName: property
-
-- name: 'og:image'
-
-value: 
-
-keyName: property
-
-relativeUrl: true
-
-- name: 'twitter:card'
-
-value: summary_large_image
-
-- name: 'twitter:title'
-
-value: Faire ses devoirs en 4 étapes
-
-- name: 'twitter:description'
-
-value: >-
-
-Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
-Je te propose d’organiser ta séance de travail en 4 étapes.
-
-- name: 'twitter:image'
-
-value: 
-
-relativeUrl: true
-
+excerpt: >-
+    Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
+    Je te propose d’organiser ta séance de travail en 4 étapes.
+date: '2021-09-05'
+thumb_image: 
+thumb_image_alt: 
+image: 
+image_alt: 
+seo:
+  title: Faire ses devoirs en 4 étapes
+  description: >-
+      Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
+      Je te propose d’organiser ta séance de travail en 4 étapes.
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: Faire ses devoirs en 4 étapes
+      keyName: property
+    - name: 'og:description'
+      value: >-
+          Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
+          Je te propose d’organiser ta séance de travail en 4 étapes.
+      keyName: property
+    - name: 'og:image'
+      value: images/post-4.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Faire ses devoirs en 4 étapes
+    - name: 'twitter:description'
+      value: >-
+          Pour progresser et réussir son lycée, il faut mettre en place dès le début de l’année une routine de travail quotidienne. 
+          Je te propose d’organiser ta séance de travail en 4 étapes.
+    - name: 'twitter:image'
+      value: images/post-4.jpg
+      relativeUrl: true
 layout: post
-
 ---
 
 Tes professeurs te le disent depuis le début de ta scolarité : pour progresser il faut travailler régulièrement et réviser un peu tous les jours. Mais voilà, ce n’est pas si évident, surtout quand on ne sait pas comment organiser sa séance de travail quotidienne pour qu’elle soit efficace et qu’elle nous permette d’avancer sur plusieurs fronts à la fois. Je te propose une routine de travail en 4 étapes, facile à mettre en place et à adapter à tes besoins. 
