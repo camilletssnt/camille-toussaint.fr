@@ -1,8 +1,8 @@
 ---
 title: Faire ses devoirs en 4 étapes
 excerpt: >-
-  Pour progresser et réussir son lycée, il faut mettre en place dès le début de
-  l'année
+  Pour progresser et réussir son lycée, il faut mettre en place une routine de
+  travail dès le début de l'année. Je
 date: '2021-02-12'
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
