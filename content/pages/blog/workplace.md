@@ -4,7 +4,7 @@ excerpt: >-
   Pour progresser et réussir son lycée, il faut mettre en place une routine de
   travail dès le début de l'année. Je te propose d'organiser ta séance de
   travail en 4 étapes.
-date: '2021-02-05'
+date: '2021-09-05'
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
 image_alt: White desk lamp beside green plant
