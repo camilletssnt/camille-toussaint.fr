@@ -8,7 +8,6 @@ excerpt: >-
   including the exterior, of a room or building”. An interior designer is
   someone who coordinates and manages such projects.
 date: '2020-09-26'
-thumb_image: images/post-2-thumb.jpg
 thumb_image_alt: 'Potted plants, candles on a table'
 seo:
   title: How To Choose An Interior Designer
