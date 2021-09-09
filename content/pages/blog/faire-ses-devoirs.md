@@ -1,5 +1,5 @@
 ---
-title: Faire ses devoirs en 4 étapes
+title: Faire ses devoirs en 3 étapes
 excerpt: >-
   Pour progresser et réussir son lycée, il faut mettre en place une routine de
   travail dès le début de l'année. Je te propose d'organiser ta séance de
