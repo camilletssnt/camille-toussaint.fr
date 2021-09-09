@@ -84,4 +84,3 @@ Vous pouvez aussi aller le voir à la fin du cours : allez le voir et demandez-l
 ## Conclusion : 
 La maîtrise de la prise de notes est essentielle et il vaut mieux commencer à apprendre à le faire au lycée, car elle vous sera nécessaire dans le supérieur mais aussi dans la vie active. Au début cela peut être un peu intimidant, mais n'oubliez pas que les paroles de votre professeur ne sont pas paroles divines et que vous avez d'autres sources d'information : votre manuel mais aussi Internet, ou même le cours d'un de vos camarades. Rater deux ou trois informations, ce n'est pas si grave. Relaxez-vous sur la question de la prise de notes et concentrez-vous sur ce qui est essentiel : être attentif en cours et s'assurer qu'on fait toujours l'effort de vraiment comprendre. Le reste viendra. 
 
-[[f_Comment prendre des notes en cours]]
